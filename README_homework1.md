@@ -23,5 +23,5 @@ validation_split: 0.1.
  Как можно заметить из эксперимента, значения точности для тестовых данных хоть и возрастает по показателям dice и jaccard,
  но эти измения не значительны и колеблются в диапазоне до двух процентов.
 
- Ссылка на блокнот: https://colab.research.google.com/drive/1hQ_CwTfvwDIupMrMco3hf6BmUHbGnVbU?usp=sharing
+ Ссылка на блокнот: https://colab.research.google.com/drive/1hQ_CwTfvwDIupMrMco3hf6BmUHbGnVbU?usp=sharing 
  
